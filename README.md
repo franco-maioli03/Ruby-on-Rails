@@ -69,4 +69,4 @@ To get started with the projects, clone this repository and follow the setup ins
 
 ```bash  
 git clone https://github.com/franco-maioli03/Ruby-on-Rails.git  
-cd repository-name
+cd Ruby-on-Rails
